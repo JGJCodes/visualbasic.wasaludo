@@ -1,0 +1,21 @@
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\bin\Debug\WAJGJ01.exe
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\bin\Debug\WAJGJ01.pdb
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\bin\Debug\WAJGJ01.xml
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\WAJGJ01.Form1.resources
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\WAJGJ01.Resources.resources
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\WAJGJSaludo.vbproj.GenerateResource.Cache
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\WAJGJ01.exe
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\WAJGJ01.xml
+C:\Users\jorge\SkyDrive\Documentos\Jorge\Proyectos VS.NET\WAJGJ01\WAJGJ01\obj\Debug\WAJGJ01.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\bin\Debug\WAJGJ01.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\bin\Debug\WAJGJ01.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\bin\Debug\WAJGJ01.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJSaludo.vbprojAssemblyReference.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJ01.Form1.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJ01.Resources.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJSaludo.vbproj.GenerateResource.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJSaludo.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJ01.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJ01.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJSaludo\WAJGJ01\obj\Debug\WAJGJ01.pdb
